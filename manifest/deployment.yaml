@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: girikgarg/todo-app
+        image: girikgarg/todo-app:build-9
         ports:
         - containerPort: 80
